@@ -1,4 +1,4 @@
-# Personal Resume Website
+# Personal Resume 
 
 A responsive and interactive resume website built using HTML, CSS, and JavaScript. This project showcases my skills, education, projects, and contact information in a modern web-based format.
 
