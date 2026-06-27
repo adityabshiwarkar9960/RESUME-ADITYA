@@ -12,8 +12,3 @@ A responsive and interactive resume website built using HTML, CSS, and JavaScrip
 - Contact section
 - Fast and lightweight website
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
